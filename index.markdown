@@ -4,10 +4,6 @@
 
 layout: home
 ---
-<div class="magazine-style-intro">
-  <h1>Welcome to Our Feature Article</h1>
-  <p>This month's edition focuses on the vibrant intersections of technology and art, bringing you insights from industry leaders, innovative creators, and our expert team. Dive into our feature stories to explore the dynamic world of digital creation.</p>
-</div>
 
 <div class="content-section">
   <p>In San Francisco, a new research project is exploring the city's crime data to help the public understand the safety of their neighborhoods. The study's dataset is sourced from the official website of SF.gov at <a href="https://data.sfgov.org/">https://data.sfgov.org/</a>, a platform that centralizes data from multiple departments and public agencies with the goal of improving accessibility and efficiency of services while saving taxpayer dollars through the efforts of digital and data services teams.</p>
