@@ -15,7 +15,7 @@ layout: home
   <p>Through the regional and temporal analysis of crime data, this project not only increases public awareness of community safety, but also provides a practical tool that enables people to make more informed decisions based on data, thereby improving their quality of life.</p>
 </div>
 
-<embed 
+<embed>
    type="text/html" 
    src="/assets/Interactive_visualization.html" 
    width="900" 
