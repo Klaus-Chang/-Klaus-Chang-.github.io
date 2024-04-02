@@ -15,31 +15,6 @@ layout: home
   <p>Through the regional and temporal analysis of crime data, this project not only increases public awareness of community safety, but also provides a practical tool that enables people to make more informed decisions based on data, thereby improving their quality of life.</p>
 </div>
 
-<!-- Add this to your site's CSS file -->
-<style>
-.magazine-style-intro {
-  max-width: 800px;
-  margin: auto;
-  padding: 20px;
-  background-color: #f8f8f8;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  font-family: 'Georgia', serif;
-}
-
-.magazine-style-intro h1 {
-  font-size: 2.5em;
-  color: #333;
-  margin-bottom: 0.5em;
-}
-
-.magazine-style-intro p {
-  font-size: 1.2em;
-  line-height: 1.6;
-  color: #666;
-}
-</style>
-
-
 <embed 
    type="text/html" 
    src="/assets/Interactive_visualization.html" 
