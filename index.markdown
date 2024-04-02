@@ -26,11 +26,11 @@ layout: home
    width="1000" 
    height="600">
    </embed>
-</div>
-
-<embed
+  <h2>Ⅲ Interactive visualizations</h2>
+  <embed
    type="text/html" 
    src="/assets/Interactive_visualization.html" 
    width="1000" 
    height="600">
 </embed>
+</div>
