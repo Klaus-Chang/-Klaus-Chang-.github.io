@@ -6,6 +6,7 @@ layout: home
 ---
 
 <div class="content-section">
+  <h1>Deciphering the Data: A Preliminary Look at Crime and Safety in San Francisco</h1>
   <p>In San Francisco, a new research project is exploring the city's crime data to help the public understand the safety of their neighborhoods. The study's dataset is sourced from the official website of SF.gov at <a href="https://data.sfgov.org/">https://data.sfgov.org/</a>, a platform that centralizes data from multiple departments and public agencies with the goal of improving accessibility and efficiency of services while saving taxpayer dollars through the efforts of digital and data services teams.</p>
   <p>The dataset used in the study contains a wealth of column information, including case ID (PdId), Incident number (IncidntNum), incident code (Incident Code), Category, Descript, Day of the week, Date, Time, PdDistrict, Resolution, Address, coordinate X, coordinate Y, and location (location). With this data, researchers can conduct in-depth analyses to identify areas and time periods of high crime rates, as well as trends in specific crime types.</p>
   <p>Using data visualization tools such as Plotly, the researchers were able to map clearly which places are relatively safe and which are likely to require more public attention. This visual approach not only helps the public understand the security situation in the community, but also visually shows the areas where certain types of crime are most common, or when crime incidents are most common.</p>
