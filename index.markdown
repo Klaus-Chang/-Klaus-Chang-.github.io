@@ -15,9 +15,22 @@ layout: home
   <p>Through the regional and temporal analysis of crime data, this project not only increases public awareness of community safety, but also provides a practical tool that enables people to make more informed decisions based on data, thereby improving their quality of life.</p>
 </div>
 
-<embed 
+<div class="content-section">
+  <h1>Three visualizations</h1>
+  <h2>Ⅰ Number of Crimes per Hour of the Week by Category</h2>
+  <img src="assets/img/crimes_per_hour_of_the_week.png" alt="Number of Crimes per Hour of the Week by Category">
+  <h2>Ⅱ Visualizing geodata</h2>
+  <embed
+   type="text/html" 
+   src="/assets/map.html" 
+   width="1000" 
+   height="600">
+   </embed>
+  <h2>Ⅲ Interactive visualizations</h2>
+  <embed
    type="text/html" 
    src="/assets/Interactive_visualization.html" 
-   width="900" 
+   width="1000" 
    height="600">
 </embed>
+</div>
