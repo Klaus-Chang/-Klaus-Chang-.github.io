@@ -17,13 +17,20 @@ layout: home
 
 <div class="content-section">
   <h1>Three visualizations</h1>
-  <h2>Number of Crimes per Hour of the Week by Category</h2>
+  <h2>Ⅰ Number of Crimes per Hour of the Week by Category</h2>
   <img src="assets/img/crimes_per_hour_of_the_week.png" alt="Number of Crimes per Hour of the Week by Category">
+  <h2>Ⅱ Visualizing geodata</h2>
+  <embed
+   type="text/html" 
+   src="/assets/map.html" 
+   width="1000" 
+   height="600">
+   </embed>
 </div>
 
 <embed
    type="text/html" 
    src="/assets/Interactive_visualization.html" 
-   width="900" 
+   width="1000" 
    height="600">
 </embed>
