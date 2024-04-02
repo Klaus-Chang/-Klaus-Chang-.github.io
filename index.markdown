@@ -4,7 +4,7 @@
 
 layout: home
 ---
-div class=<"magazine-style-intro">
+<div class="magazine-style-intro">
   <h1>Welcome to Our Feature Article</h1>
   <p>This month's edition focuses on the vibrant intersections of technology and art, bringing you insights from industry leaders, innovative creators, and our expert team. Dive into our feature stories to explore the dynamic world of digital creation.</p>
 </div>
