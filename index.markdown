@@ -136,7 +136,7 @@ This graph also shows that the data density is high, with events occurring at al
 
 <div class="conclution-section">
 <h1>Conclution</h1>
-<p>Each crime type shows a pattern of crime distribution over the course of a week, and it can be seen that certain crimes have a distinct high incidence period at certain times.</p>
+<p>In the Assignment submitted this time, I chose more data related to the map. We can only draw a conclusion about which areas of San Francisco are safer, and we can't observe the trend of crime in the long decade. If more conclusions are needed, more data processing will be needed to draw them.</p>
 </div>
 
 <div class="contribution-section">
