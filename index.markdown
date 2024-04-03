@@ -125,8 +125,8 @@ layout: default
 This graph also shows that the data density is high, with events occurring at almost every location.</p>
 </div>
 
-<div class="Realsituation-section">
-<h1>Real situation</h1>
+<div class="Current San Francisco Situation-section">
+<h1>Current San Francisco Situation</h1>
 <p>In this website (https://abc7news.com/feature/san-francisco-bay-area-safety-tracker-crime-stats-how-safe-is-my-neighborhood-zip-code-statistics/12442207/) I found some relevant information (homicide rate), which is from 2020 through March 31, 2024, and the trend of the data on the graph is basically consistent with our second part: Richmond, PARK, TARAVAL, and INGLESIDE have not only a low crime rate, but also a low homicide rate.</p>
 <img src="assets/img/A closer look at San Francisco homicides by neighborhood.png" alt="A closer look at San Francisco homicides by neighborhood" class="img2"/>
 <p>The map color codes each neighborhood by the homicide rate over the last 12 months. The three darker blues highlight neighborhoods where the murder rate is higher than the citywide rate.</p>
